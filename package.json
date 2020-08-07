@@ -10,7 +10,7 @@
   "dependencies": {
     "core-js": "^2.6.5",
     "marked": "^0.7.0",
-    "prismjs": "^1.17.1",
+    "prismjs": "^1.21.0",
     "vue": "^2.6.10"
   },
   "devDependencies": {
